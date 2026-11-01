@@ -1,0 +1,51 @@
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+padding:20px 30px;
+
+background:#ffffff;
+
+box-shadow:0 3px 10px rgba(0,0,0,.08);
+}
+
+.navbar h2{
+margin:0;
+color:#2563eb;
+}
+
+.navbar p{
+margin-top:5px;
+color:#666;
+}
+
+.profile{
+display:flex;
+align-items:center;
+gap:15px;
+}
+
+.profile img{
+
+width:45px;
+
+height:45px;
+
+border-radius:50%;
+
+}
+
+.profile h4{
+
+margin:0;
+
+}
+
+.profile span{
+
+font-size:14px;
+
+color:gray;
+
+}

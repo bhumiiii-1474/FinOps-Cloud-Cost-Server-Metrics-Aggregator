@@ -1,0 +1,39 @@
+.summary-card{
+
+background:white;
+
+padding:25px;
+
+border-radius:12px;
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+box-shadow:0 3px 10px rgba(0,0,0,.08);
+
+}
+
+.summary-card h4{
+
+margin:0;
+
+color:#666;
+
+}
+
+.summary-card h2{
+
+margin-top:15px;
+
+font-size:28px;
+
+}
+
+.icon{
+
+font-size:45px;
+
+}
